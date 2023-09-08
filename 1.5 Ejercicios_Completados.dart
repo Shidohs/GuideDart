@@ -50,83 +50,83 @@ void main() {
   //   }
   // }
 // 5. Pedir un número al usuario y mostrar su tabla de multiplicar (usar switch)
-  print('ingrese un numero Para Mostrar su Tabla: ');
-  String input = stdin.readLineSync()!;
-  int value = int.parse(input);
-  switch (value) {
-    case 1:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 2:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 3:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 4:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 5:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 6:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 7:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 8:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 9:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    case 10:
-      int count = 1;
-      while (count < 11) {
-        print(value * count);
-        count++;
-      }
-      break;
-    default:
-      print("El limite es 10");
-  }
+  // print('ingrese un numero Para Mostrar su Tabla: ');
+  // String input = stdin.readLineSync()!;
+  // int value = int.parse(input);
+  // switch (value) {
+  //   case 1:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 2:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 3:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 4:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 5:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 6:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 7:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 8:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 9:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   case 10:
+  //     int count = 1;
+  //     while (count < 11) {
+  //       print(value * count);
+  //       count++;
+  //     }
+  //     break;
+  //   default:
+  //     print("El limite es 10");
+  // }
 // 6. Pedir un número al usuario y mostrar todos los números impares desde 1 hasta ese número (usar for)
 
 // 7. Pedir un texto al usuario y mostrarlo en pantalla invertido (usar for)
