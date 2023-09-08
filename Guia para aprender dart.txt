@@ -1,4 +1,17 @@
-1.Introducción a Dart: Qué es Dart, cómo instalarlo y cómo ejecutar programas en Dart.
+1.Introducción a Dart: Qué es Dart
+// Que es dart: Dart es un lenguaje de programación desarrollado por Google que está optimizado para crear interfaces de usuario. Algunas características de Dart son:
+
+- Tipado opcional: Soporta tipado estático y dinámico. Los tipos son opcionales.
+- Orientado a objetos: Soporta clases, herencia, métodos abstractos, interfaces, mixins, etc.
+- Multiplataforma: Puede compilar a JavaScript, así como a binarios nativos (mobile, desktop, etc).
+- Alto rendimiento: Tiene un recolector de basura eficiente y AOT (compilación en tiempo de ejecución).
+- Facilidad de uso: La sintaxis es limpia y fácil de aprender para desarrolladores de JavaScript o Java.
+- Batería incluida: Posee una gran librería estándar de utilidades y clases integradas.
+- Asincrónico: Basado en Futures y Streams para programación asíncrona. 
+- Maduro: Desarrollado por Google desde 2011. Usado en Flutter y AngularDart.
+
+En resumen, Dart está orientado a facilitar el desarrollo de interfaces modernas y multiplataforma. Es un lenguaje productivo y bien documentado, ideal para aplicaciones web, móviles y de escritorio. Su compilación a JavaScript lo hace compatible con cualquier navegador.
+
 2.Sintaxis de Dart: Cómo escribir código en Dart, usando variables, operadores, expresiones, comentarios, etc.
 > Los temas que se cubren en la sección “Sintaxis de Dart” de la página que me compartiste son los siguientes:
 
