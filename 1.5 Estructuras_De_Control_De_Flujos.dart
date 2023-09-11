@@ -16,11 +16,11 @@ void main() {
     print("ERROR 404");
   }
 // 1. Escribe un programa que use una declaración if/else para imprimir si un valor es par o impar.
-  var n = 5;
+  var n = 6;
   var r = 2;
-  r %= n;
+  n %= r;
 
-  if (r <= 0) {
+  if (n <= 0) {
     print("Es par");
   } else {
     print("Es impar");

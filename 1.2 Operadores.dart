@@ -16,6 +16,7 @@ void main() {
   var ab = true;
   var ba = false;
   bool and = ab && ba; // AND: false
+  // ignore: dead_code
   bool or = ab || ba; // OR: true
   bool not = !ab; // NOT: false
   print("$and $or $not");

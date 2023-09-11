@@ -3,7 +3,7 @@ void main() {
   var name = 'rey';
 
   // 'String' es un tipo de variable que almacena una secuencia de caracteres.
-  String surname = 'light';
+  String surname = 'shidox';
 
   // 'int' es un tipo de variable que almacena números enteros.
   int age = 18;

@@ -1,0 +1,23 @@
+Aquí te propongo 10 ejercicios para practicar el uso de funciones en Dart:
+
+1. Crea una función que reciba dos números y devuelva el resultado de sumarlos.
+
+2. Crea una función que reciba un texto y lo imprima en mayúsculas.
+
+3. Crea una función que calcule el área de un círculo dado su radio. Usa una constante PI.
+
+4. Crea una función que indique si un número es par o impar.
+
+5. Crea una función que reciba una lista de números y devuelva true si la lista está ordenada de menor a mayor.
+
+6. Crea una función que reciba un Map y devuelva la cantidad de elementos que contiene.
+
+7. Crea una función que reciba un texto y reemplace todas las vocales por un número 1.
+
+8. Crea una función asíncrona que espere 3 segundos y luego imprima "Terminado".
+
+9. Crea una función que reciba otra función y la ejecute dos veces.
+
+10. Crea una función que valide si una cadena de texto contiene solo dígitos numéricos y devuelva true o false.
+
+Como desafío extra, intenta crear soluciones para estos ejercicios usando funciones anónimas y aprovechando las funciones de orden superior cuando sea posible. ¡Éxitos!
